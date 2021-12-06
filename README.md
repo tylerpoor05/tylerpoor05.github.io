@@ -12,7 +12,7 @@ Use this template to create your senior portfolio using GitHub Pages!
 1.  Log in to GitHub (create a [GitHub profile](https://github.com/join) if you don't already have one).
 2.  Navigate to https://github.com/csu-cs/csci-portfolio
 3.  Click on the "Fork" button in the top right corner.
-4.  Follow the rest of [this step-by-step tutorial on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd). This senior portfolio repository was originally forked form [quick-portfolio by Ivanna Kacewica](https://github.com/evanca/quick-portfolio) for which the tutorial was original written.
+4.  Follow the rest of [this step-by-step tutorial on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd). This senior portfolio repository was originally forked from  [quick-portfolio by Ivanna Kacewica](https://github.com/evanca/quick-portfolio) for which the tutorial was originally written.
 
 [A Video Tutorial](https://youtu.be/ECtcGftiCBI)
 
