@@ -1,12 +1,11 @@
 # Site settings
 # These are used to personalize your new site.
 title: Matthew Tyler Poor # your name here
-logo: "/images/Me.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Me.jpg" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2040)
-  <br /> I am a senior at Charleston Southern University studying for a Bachelors Degree in Cybersecurity<br />
+   I am a senior at Charleston Southern University studying for a Bachelors Degree in Cybersecurity
+  <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
