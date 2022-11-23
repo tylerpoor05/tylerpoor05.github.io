@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Senior Project Internal Penetration Tester | Senior Project](project1)
 
-![Project 1 Thumbnail Name](\Pictures\Kali Linux.png)
+![Project 1 Thumbnail Name](/images/Kali Linux.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project2)
