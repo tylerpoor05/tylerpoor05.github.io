@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Project 2 Battleship Program | CSCI 215](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Battleship.jpg)
 
 ---
 ### [Project 3 Title | CSCI 325](project3)
