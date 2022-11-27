@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](/images/Kali Linux.png)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [Project 2 Battleship Program | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
