@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Problematic Internal Issues: The Effect in the Corporate World](/pdf/Ethics Paper - Problematic Internal Issues.docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 325**  
+-   **Grade:A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [The Science Behind Software Ownership](/pdf/The Science Behind Software Ownership.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:CSCI 301** 
+-   **Grade:A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Issues in Penetration Testing](/pdf/Ethical Issues in Penetration Testing.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:CSCI 452** 
+-   **Grade:A**
 
 ---
 
