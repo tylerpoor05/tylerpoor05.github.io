@@ -51,15 +51,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Psychological Theories of Crime](/pdf/Psychological Theories of Crime - PP.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:A** 
+- **Grade:CRIM 401**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
+- **Class:A** 
 - **Grade:**
 
 ---
