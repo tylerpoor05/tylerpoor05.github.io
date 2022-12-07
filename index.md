@@ -53,14 +53,14 @@ Presentations
 
 ### [Psychological Theories of Crime](/pdf/Psychological Theories of Crime - PP.pptx)
 
-- **Class:A** 
-- **Grade:CRIM 401**
+- **Class:CRIM 401** 
+- **Grade:A**
 
 
 ### [Cross Site Scripting Security](/pdf/Cross-Site Scripting Security.pptx)
 
-- **Class:A** 
-- **Grade:CSCI 301**
+- **Class:CSCI 301** 
+- **Grade:A**
 
 ---
 
