@@ -6,7 +6,7 @@ Project 1 Title
 -   **Class: Senior Project** 
 -   **Grade: A** 
 -   **Language(s): Python, Bash, and PowerShell** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/tylerpoor05/SeniorProject)  
+-   **Source Code Repository:** [Senior Project](https://github.com/tylerpoor05/SeniorProject)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
