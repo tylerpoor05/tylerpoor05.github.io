@@ -1,22 +1,23 @@
 [Back to Portfolio](./)
 
-Senior Project
+CSCI-330 D Latch Verilog
 ===============
 
--   **Class: Senior Project** 
+-   **Class: CSCI 330** 
 -   **Grade: A** 
--   **Language(s): Python, Bash, and PowerShell** 
--   **Source Code Repository:** [Senior Project](https://github.com/tylerpoor05/SeniorProject)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Language(s): Verilog** 
+-   **Source Code Repository:** [CSCI 330](https://github.com/tylerpoor05/CSCI330)  
+    (Please [email me](mailto:mtpoor@csustudent.net) to request access.)
 
 ## Project description
 
-The project conisted of the building and implementation of a virtual network, the creation of a python-based exploit, and the development of a PowerShell based redmediation script. Each part of the program was manually ran by the tester to demonstrate a simulation of a real-world internal penetration test on a local network. 
+This program was designed to replicate a d latch used to store and move information on an electrical circuit board. It acts as a temporary buffer to sends bits across a line. This code is written in verilog and programs the latch to know what to do when the bits are sent to it.
 
 ## How to run the program
 
-The program was run by a cli over a Kali Linux box that was on the internal network. It would connect to a server that had a known buffer overflow vulnerability on the network and would connect via a remote shell.
+The program is run using NASM to compile the verilog code. The ouput can then be seen using a IDE such as Visual Studio Code.
 
-The attacker had to use msfvenom to create the shellcode for the exploit and then attach that to the source code before running "python3 overflow.py" over the command line.
+It would look like the following "nasm -felf64 <file>.v && gcc -no-pie -fPIC <file>.o && ./a.out
 
-The PowerShell remediation script would be run on the domain controller of the network. By changing registry settings and applying new group policy automatically, the script would remediate all vulnerabilities found during the penetration test.
+Fig 1.
+![CSCI 330 Run Command](https://user-images.githubusercontent.com/65245471/206322873-4d169b9a-6107-4ae4-8a48-0ebb6968b7da.png)
