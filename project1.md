@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Senior Project
 ===============
 
 -   **Class: Senior Project** 
