@@ -6,7 +6,7 @@ Project 3 Title
 -   **Class: CSCI 332** 
 -   **Grade: A** 
 -   **Language(s): HTML, CSS, C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/tylerpoor05/CSCI-332)  
+-   **Source Code Repository:** [CSCI 332 Project](https://github.com/tylerpoor05/CSCI-332)  
     (Please [email me](mailto:mtpoor@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
