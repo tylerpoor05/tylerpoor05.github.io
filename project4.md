@@ -11,25 +11,27 @@ Project 4 CSCI 325 Movie Theatre
 
 ## Project description
 
-This project is a Java program that acts a movie theatre ticketing system. ConfirmPayment.java Used to prompt the user for confirmation towards their ticket purchase.
+This project is a Java program that acts a movie theatre ticketing system. It offers a customer a algorithm that allows them to follow instructions for purchasing a movie ticket to four different movies of their choice.
+ConfirmPayment.java 
+    Used to prompt the user for confirmation towards their ticket purchase.
 Greeting.java 
- - Greets the user with a friendly message and prompts them with instructions.
+    Greets the user with a friendly message and prompts them with instructions.
 Movie.java 
- - Used to store data on the movie the user picked.
+    Used to store data on the movie the user picked.
 MovieList.java 
- - Used to prompt the user with a list of available movies to choose from.
+    Used to prompt the user with a list of available movies to choose from.
 Print.java 
- - Used to print the reciept for the ticket.
+    Used to print the reciept for the ticket.
 SelectMovie.java 
- - Used to allow the user to select actively select their desire movie.
+    Used to allow the user to select actively select their desire movie.
 SelectPayment.java 
- - Used to prompt the user to select their type of payment method.
+    Used to prompt the user to select their type of payment method.
 SelectSeating.java 
- - Allows the user to select their choice of seating througout the movie theatre.
+    Allows the user to select their choice of seating througout the movie theatre.
 SelectTime.java 
- - Used to allow the user to determine what movie time they want to pick.
+    Used to allow the user to determine what movie time they want to pick.
 TicketType.java 
- - Allows the user to determine their type of ticket.
+    Allows the user to determine their type of ticket.
 
 1. The program starts by asking the user to pick a movie.
     ![image](https://user-images.githubusercontent.com/65245471/206333808-9808be8f-3611-4dc0-8dd8-839b150e605b.png)
