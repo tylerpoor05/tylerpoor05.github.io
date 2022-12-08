@@ -13,6 +13,19 @@ Project 4 Title
 
 This project is a Java program that acts a movie theatre ticketing system. 
 
+1. The program starts by asking the user to pick a movie.
+    ![image](https://user-images.githubusercontent.com/65245471/206333808-9808be8f-3611-4dc0-8dd8-839b150e605b.png)
+2. Next, it will ask for a confirmation.
+    ![image](https://user-images.githubusercontent.com/65245471/206333700-bce38b9d-e510-4a8c-880a-5df637734637.png)
+3. After this it will ask for the user to select a time slot to see the movie.
+    ![image](https://user-images.githubusercontent.com/65245471/206333649-4e757b20-30b4-4e69-92c0-df34a20bbf41.png)
+4. After this the user will pick payment method to pay for the movie ticket.
+    ![image](https://user-images.githubusercontent.com/65245471/206334113-10596688-12c3-445d-9882-94506580d234.png)
+5. In the end it prints out a receipt for the user.
+    ![image](https://user-images.githubusercontent.com/65245471/206334217-c78d94ae-d045-4879-bd17-76cdc4017bda.png)
+
+
+
 ## How to run the program
 
-The program is run through a IDE.
+The program is run through the NetBeans IDE and the input is over a command line interface. There is no gui designed for this application.
