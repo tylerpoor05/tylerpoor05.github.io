@@ -19,6 +19,7 @@ The project is a C++ program that runs the popular board game, battleship. Each 
 The program is ran over windows command line. It must be compiled before use. It can also be ran using an IDE like Visual Studio Code.
 
 Here is a sample output
+
 ![image](https://user-images.githubusercontent.com/65245471/206339843-058300ff-e43b-4e5d-8c5d-2331df775b13.png)
 
 
