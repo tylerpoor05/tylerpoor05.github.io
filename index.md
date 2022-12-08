@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Problematic Internal Issues: The Effect in the Corporate World](/pdf/Ethics Paper - Problematic Internal Issues.docx)
+### [Problematic Internal Issues: The Effect in the Corporate World](/pdf/Ethics Paper - Problematic Internal Issues.pdf)
 
 -   **Class: CSCI 325**  
 -   **Grade:A**
 
-### [The Science Behind Software Ownership](/pdf/The Science Behind Software Ownership.docx)
+### [The Science Behind Software Ownership](/pdf/The Science Behind Software Ownership.pdf)
 
 -   **Class:CSCI 301** 
 -   **Grade:A**
 
-### [Ethical Issues in Penetration Testing](/pdf/Ethical Issues in Penetration Testing.docx)
+### [Ethical Issues in Penetration Testing](/pdf/Ethical Issues in Penetration Testing.pdf)
 
 -   **Class:CSCI 452** 
 -   **Grade:A**
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Psychological Theories of Crime](/pdf/Psychological Theories of Crime - PP.pptx)
+### [Psychological Theories of Crime](/pdf/Psychological Theories of Crime - PP.pdf)
 
 - **Class:CRIM 401** 
 - **Grade:A**
 
 
-### [Cross Site Scripting Security](/pdf/Cross-Site Scripting Security.pptx)
+### [Cross Site Scripting Security](/pdf/Cross-Site Scripting Security.pdf)
 
 - **Class:CSCI 301** 
 - **Grade:A**
