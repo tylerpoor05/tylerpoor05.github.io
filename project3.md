@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+
 ===============
 
 -   **Class: CSCI 332** 
@@ -16,3 +16,7 @@ This program is the creation of two servers. I client side server and backend se
 ## How to run the program
 
 The program is run over command line or can be run through an IDE, such as VSC.
+
+An example of the command to run the program can be seen in Fig 1.
+![image](https://user-images.githubusercontent.com/65245471/206332503-57f92f48-e6af-4694-9e20-325558d2ee00.png)
+
