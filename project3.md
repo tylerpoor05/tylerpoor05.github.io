@@ -15,4 +15,4 @@ This program is the creation of two servers. I client side server and backend se
 
 ## How to run the program
 
-THe program is run over command line or can be run through an IDE, such as VSC.
+The program is run over command line or can be run through an IDE, such as VSC.
