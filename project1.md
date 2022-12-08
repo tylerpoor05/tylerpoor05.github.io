@@ -6,7 +6,7 @@ CSCI-330 D Latch Verilog
 -   **Class: CSCI 330** 
 -   **Grade: A** 
 -   **Language(s): Verilog** 
--   **Source Code Repository:** [CSCI 330](https://github.com/tylerpoor05/CSCI330)  
+-   **Source Code Repository:** [CSCI 330](https://github.com/tylerpoor05/CSCI-330)  
     (Please [email me](mailto:mtpoor@csustudent.net) to request access.)
 
 ## Project description
