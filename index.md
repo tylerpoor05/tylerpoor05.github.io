@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mtpoor@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Senior Project Internal Penetration Tester | Senior Project](project1)
+### [Project 1 D-Latch Program | CSCI 330](project1)
 
 ![Project 1 Thumbnail Name](/images/DLatchVerilog.jpg)
 
