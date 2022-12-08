@@ -27,5 +27,7 @@ Each input shows the four ways in which the d latch can move the bit along the w
 
 The bits being sent over the wire can be seen in the output file a.out.
 ![image](https://user-images.githubusercontent.com/65245471/206334869-a5095b15-4c2a-44c2-8ccd-3bad43719469.png)
+![image](https://user-images.githubusercontent.com/65245471/206335280-01ea00f7-8ca5-4f98-8edd-283065545f83.png)
+
 
 
