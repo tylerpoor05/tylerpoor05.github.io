@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+Project 4 CSCI 325 Movie Theatre
 ===============
 
 -   **Class: CSCI 325** 
