@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Senior Project Internal Penetration Tester | Senior Project](project1)
 
-![Project 1 Thumbnail Name](/images/Kali Linux.png)
+![Project 1 Thumbnail Name](/images/DLatchVerilog.jpg)
 
 ---
 ### [Project 2 Battleship Program | CSCI 235](project2)
