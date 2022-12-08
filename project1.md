@@ -21,3 +21,7 @@ It would look like the following "nasm -felf64 "YourFile".v && gcc -no-pie -fPIC
 
 Fig 1.
 ![CSCI 330 Run Command](https://user-images.githubusercontent.com/65245471/206322873-4d169b9a-6107-4ae4-8a48-0ebb6968b7da.png)
+
+Each input shows the four ways in which the d latch can move the bit along the wire.
+![image](https://user-images.githubusercontent.com/65245471/206330624-822bcc28-ba88-4c4c-8e57-fa18620cc7eb.png)
+
